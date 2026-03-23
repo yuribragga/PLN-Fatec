@@ -24,3 +24,11 @@ if (resultado === "spam") {
 } else {
     console.log("Mensagem considerada segura.");
 }
+
+// Limitações da biblioteca Natural:
+// - Suporte fraco para linguas diferentes do inglês
+// - Modelos simples
+// - Não entende contexto das frases
+// - Precisa de muito treino
+// - Dificuldade com linguagem real(gírias, erros de digitação)
+// - Não tem uma boa escalabilidade
