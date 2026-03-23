@@ -13,7 +13,7 @@ classifier.addDocument("quanto custa", "preco");
 
 classifier.train();
 
-const pergunta = "queria uma ajuda com meu carro";
+const pergunta = "preciso achar meu carro";
 
 const resposta = classifier.classify(pergunta);
 
