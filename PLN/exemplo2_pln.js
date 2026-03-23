@@ -29,6 +29,6 @@ if (resultado === "spam") {
 // - Suporte fraco para linguas diferentes do inglês
 // - Modelos simples
 // - Não entende contexto das frases
-// - Precisa de muito treino
+// - Precisa de muito treino(quanto mais melhor)
 // - Dificuldade com linguagem real(gírias, erros de digitação)
 // - Não tem uma boa escalabilidade

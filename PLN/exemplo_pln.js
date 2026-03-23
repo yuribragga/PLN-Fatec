@@ -1,5 +1,6 @@
 const natural = require("natural");
 
+// Naive Bayes para classificar o texto em categorias 
 const classifier = new natural.BayesClassifier();
 
 classifier.addDocument("quero comprar um carro", "compra");
